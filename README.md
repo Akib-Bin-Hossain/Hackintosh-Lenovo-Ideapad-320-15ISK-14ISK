@@ -1,20 +1,7 @@
  
 # Hackintosh-Lenovo-Ideapad-320-15ISK-14ISK
 
-[![Github release](https://img.shields.io/github/release/gajjartejas/Lenovo-Ideapad-320-15ISK-14ISK-Laptop-Hackintosh.svg?color=blue)](https://github.com/hieplpvip/AppleBacklightSmoother/releases/latest)
-[![Github downloads](https://img.shields.io/github/downloads/gajjartejas/Lenovo-Ideapad-320-15ISK-14ISK-Laptop-Hackintosh/total.svg?color=blue)](https://github.com/hieplpvip/AppleBacklightSmoother/releases)
-[![Donate with PayPal](https://img.shields.io/badge/paypal-donate-red.svg)](https://paypal.me/gajjartejas)
-<!---
-[![Build Status](https://travis-ci.com/gajjartejas/Lenovo-Ideapad-320-15ISK-14ISK-Laptop-Hackintosh.svg?branch=master)](https://travis-ci.com/hieplpvip/AppleBacklightSmoother)
-[![Scan Status](https://scan.coverity.com/projects/21839/badge.svg)](https://scan.coverity.com/projects/21839)
--->
-
-
 Goal of this repo is to run Mac os on Lenovo Ideapad 320 15ISK Laptop
-
-macOS Big Sur 11.6	|  macOS Monterey 12.3
-:-------------------------:|:-------------------------:
-![alt text](11.0.x/11.6/screenshot.png) |  ![alt text](12.0/12.3/screenshot.png)
 
 ## OpenCore Installation Guide
 
